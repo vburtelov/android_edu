@@ -1,0 +1,8 @@
+Необходимо реализовать методы registerUserByPhone и requestAccessCode
+Проверить правильность реализации можно с помощью файла с классом ExampleUnitTest
+
+Крайний срок сдачи - 29 сентября 23:59
+
+ExampleUnitTest.kt должен лежать в .../app/src/test/java/com/example/firstlesson
+UserHolder.kt должен лежать в .../app/src/main/java/com/example/firstlesson/
+User.kt должен лежать в .../app/src/main/java/com/example/firstlesson/
