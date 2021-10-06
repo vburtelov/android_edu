@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title">Notifications</string>
+    <string name="person1">Roman Kamushken</string>
+    <string name="person2">Tina Turbina</string>
+    <string name="person3">Tomek Kuwalskij</string>
+    <string name="comment_age1">2 days ago</string>
+    <string name="comment_age2">18 minutes ago</string>
+    <string name="comment_age3">2 days ago</string>
+    <string name="comment_value1">Check out awesome updates for Android design kit for Figma.
+        Now more screens and more categories.</string>
+    <string name="comment_value2">“into component container and with resizing
+        constraints set????”</string>
+    <string name="comment_value3">“into component container and with resizing
+        constraints set????”</string>
+    <string name="reply_count1">117 replays</string>
+    <string name="reply_count2">117 replays</string>
+    <string name="reply_count3">117 replays</string>
+    <string name="account_value">Account</string>
+</resources>
