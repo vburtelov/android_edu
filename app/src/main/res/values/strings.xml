@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="res">Результат:</string>
+    <string name="textview">TextView</string>
+    <string name="back">Назад</string>
+    <string name="math">Введите математическую операцию:</string>
+    <string name="math_op">Математическая операция</string>
+    <string name="to">Вперед</string>
+    <string name="second_text">Введите второе число</string>
+    <string name="first_num">Введите первое число</string>
+</resources>
