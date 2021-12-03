@@ -3,3 +3,4 @@
 [Лабораторная 2](https://github.com/vburtelov/android_edu/tree/lab2)<br/>
 [Лабораторная 3](https://github.com/vburtelov/android_edu/tree/lab3)<br/>
 [Лабораторная 4](https://github.com/vburtelov/android_edu/tree/lab4)<br/>
+[Лабораторная 5](https://github.com/vburtelov/android_edu/tree/lab5)<br/>
