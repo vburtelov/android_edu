@@ -1,10 +1,10 @@
 package ru.burtelov.lab4
 
-typealias PersonsListener = (persons: List<Person>) -> Unit
+typealias PersonsListener = (persons: Person?) -> Unit
 
 object PersonHolder {
 
-    private var persons = mutableListOf<Person>()
+    var persons = mutableListOf<Person>()
     private var listeners = mutableSetOf<PersonsListener>()
 
     init {
@@ -88,7 +88,13 @@ object PersonHolder {
 
     fun addListener(listener: PersonsListener) {
         listeners.add(listener)
-        listener.invoke(persons)
+    }
+
+    fun sendMessage() {
+        for (listener in listeners)
+            listener.invoke(persons.firstOrNull())
+        if (persons.count() > 0)
+            persons.removeAt(0)
     }
 
     fun removeListener(listener: PersonsListener) {
