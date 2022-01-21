@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="children">Children</string>
+    <string name="parents">Parents</string>
+    <string name="add">Add</string>
+    <string name="hint">Add new node</string>
+</resources>
